@@ -1,2 +1,4 @@
-# sunlight
-Game Jam 2020 - Sunlight in a Tin
+# Sunlight in a Tin
+Game Jam 2020
+
+https://qwertyprophecy.itch.io/sunlight

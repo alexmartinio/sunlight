@@ -1,4 +1,4 @@
 # Sunlight in a Tin
-Game Jam 2020
+Mock game jam for Global Game Jam 2020
 
 https://qwertyprophecy.itch.io/sunlight
